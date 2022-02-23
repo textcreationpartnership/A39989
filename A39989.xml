@@ -1,0 +1,343 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Formulæ adorandi, or, A religious and devout poem containing certain plain directions and affectionate perswasions to the clergy and laiety of England for their frequent address unto and right behaviour in the house of the Lord at his worship and service, agreeable to the word of God, the laws and customs of Holy Church.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39989</idno>
+            <idno type="STC">Wing F1585A</idno>
+            <idno type="STC">ESTC R37852</idno>
+            <idno type="EEBO-CITATION">17063917</idno>
+            <idno type="OCLC">ocm 17063917</idno>
+            <idno type="VID">105876</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39989)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105876)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1615:44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Formulæ adorandi, or, A religious and devout poem containing certain plain directions and affectionate perswasions to the clergy and laiety of England for their frequent address unto and right behaviour in the house of the Lord at his worship and service, agreeable to the word of God, the laws and customs of Holy Church.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rich. Royston,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Public worship --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:105876:1"/>
+            <head>
+               <hi>FORMULAE ADORANDI: OR,</hi> A Religious and Devout Poem, containing certain plain Directions, and affectionate Perſwaſions, to the Clergy and Laiety of <hi>England,</hi> for their frequent Addreſs unto, and right Behaviour in the Houſe of the Lord, at His Worſhip and Service; Agreeable to the Word of God, the Laws and Cuſtoms of Holy Church.</head>
+            <lg rend="italic" type="invocation">
+               <l>
+                  <hi>O</hi> Holy Ghoſt, Guide rightly to indite</l>
+               <l>My penſive Muſe; and eke my Pen to write</l>
+               <l>What may advance God's Glory, and th' Salvation</l>
+               <l>Of my dear Countrey people in this Nation.</l>
+            </lg>
+            <lg type="part">
+               <head>To the CLERGY.</head>
+               <lg n="1">
+                  <head>I.<note place="margin"> I. Iſai. 9.16. Mal. 1.6, 14. chap. 2.1, 2, 3, 7, 8, 9. Rom. 2.21, 24. 2 Cor. 7.2. Phil. 3.17. 1 Theſ. 2.10. 1 Tim. 4.12. 1 Pet. 5.1, 2, 3. 1 Cor. 14.40. 2 Theſ. 3.6, 7. Act. 6.4. Luk. 24.53. Act. 21.5. Rubricks, Canons, His Majeſtie's Directions concerning Preachers.</note>
+                  </head>
+                  <l>YE Miniſters, Let not the People's ſinning</l>
+                  <l>From your Example take growth, or beginning.</l>
+                  <l>At publick Worſhip, in each part and motion,</l>
+                  <l>Obſerve your Rules; ſhew reverent Devotion.</l>
+               </lg>
+               <lg n="2">
+                  <head>II.<note place="margin">2 Chron. 29.3-11. Hebr. 10.11. Jer. 33.18. Dan. 8.11, 12, 13. &amp; 12.11. Hebr. 13.15. Pſ. 107.21, 22. &amp; 116.17, 18, 19. Num. 28.3-9. Ecclus. 45.14. 1 Sam. 2.29, 30. 2 Chron. 2.12. Iſai. 43.22, 23, 24. &amp; 56.6, 7. Dan. 9.16, 17, 18, 19. Pſal. 122.6. Rom. 15.30. 1 Tim. 2.1, 2, 3. Vid. Rubrick concerning the Service of the Church.</note>
+                  </head>
+                  <l>Offer to God the Daily Sacrifice</l>
+                  <l>Each day in Church, or in your Chappel, twice;</l>
+                  <l>If well at home you be: Do you not ceaſe,</l>
+                  <l>For <hi>Chriſt</hi> his ſake, and for the Churche's peace.</l>
+               </lg>
+            </lg>
+            <lg type="part">
+               <head>To the LAIETY.</head>
+               <lg n="3">
+                  <head>III.<note place="margin">Iſai. 60.12. Pſal. 27.4. S. Luk. 2.36, 37. 1 Tim. 3.15. Pſal. 89.7. Hebr. 12.28. Pſal. 100.1, 3. Act. 3.1. Iſai. 56.2-7. S. Mar. 11.17. Zech. 8.21. S. Luk 24.53. Act. 1.13, 14. &amp; 2.42. Hebr. 11.6. Ec<g ref="char:EOLhyphen"/>clus. 50.19, 20, 21.</note>
+                  </head>
+                  <l>SErve Reverently the Lord, His Houſe frequent;</l>
+                  <l>At Common Prayer there be you preſent</l>
+                  <l>From firſt to laſt; do you continue ſtill,</l>
+                  <l>With diligence God's Service to fulfill.</l>
+               </lg>
+               <lg n="4">
+                  <head>IV.<note place="margin">Pſal. 95.3. &amp; 145.3. Malac. 18. -14. &amp; 2.9. Levit. 22.20-25. Num. 28.3 -10. Deut. 15.21. &amp; 17.1. Exod. 29.38, 39, 40, 41, 42.</note>
+                  </head>
+                  <l>Our Lord is a great God, will in no wiſe</l>
+                  <l>Accept a partial, or lame Sacrifice:</l>
+                  <l>So many ſpotleſs Lambs He did require</l>
+                  <l>At Evening's Offering, as at Morn, by fire.</l>
+               </lg>
+               <lg n="5">
+                  <head>V.<note place="margin">Ezek. 22.8. Ezra 9.4, 5. Malac: 3.8, 9. Pſal. 141.2. Dan. 20.21. Iſai. 2.3. Gen. 28.16, 17. Pſal. 84.1, 2, 3, 4. &amp; 55.17, 18. &amp; 121.1.</note>
+                  </head>
+                  <l>As you expect God ſhould you not deſpiſe,</l>
+                  <l>Rob him not of his Evening Sacrifice;</l>
+                  <l>Come to His Houſe, which is Heaven's Gate, therefore</l>
+                  <l>Both Evening and at Morn, and Him Adore.</l>
+               </lg>
+               <lg n="6">
+                  <head>VI.<note place="margin">Exod. 28.43. 2 Chron. 29.1- 11. Pſal. 46.4. Heb. 9.24. &amp; 13.10. 1 King. 8.54, 55. 2 King. 18.22. 2 Chron. 29.27-30. &amp; 32.12. Iſai. 60.13, 14. Pſal. 5.7. &amp; 28.2. * Zech. 3.8. &amp; 6.12. S. Luk. 1.78. * In theſe three laſt places of Scripture our Saviour <hi>Chriſt</hi> is called by a name that ſignifieth <hi>the Eaſt,</hi> in the Tranſlations of the <hi>Syriac. Arabic. Graec. Vulg. Lat. Arius Montanus, Vide Eccleſ. Canon.</hi> 7. 1640. <hi>Atha<g ref="char:EOLhyphen"/>naſ. Juſtin Martyr,</hi> S. <hi>Baſil,</hi> S. <hi>Auguſt. Epiphan. Durant. de Rit. Eccl. Lib.</hi> 1. <hi>Cap.</hi> 3. The <hi>Jews</hi> and Sectaries worſhip towards the Weſt: The <hi>Moors</hi> and <hi>Saracens</hi> towards the South: The Chriſtians worſhip God and <hi>Jeſus Chriſt,</hi> who is called <hi>the Eaſt,</hi> towards the Eaſt. Many Reaſons might here be inſerted for this; but the ſtreightneſs of the place will not admit them. The Cuſtom of the Church in ſuch caſes may ſatisfy any Chri<g ref="char:EOLhyphen"/>ſtian that is not contentious. Rom. 2.8. 1 Cor. 11.16.</note>
+                  </head>
+                  <l>As th' Holy place you enter and go out,</l>
+                  <l>To worſhip tow'rds the Altar make no doubt.</l>
+                  <l>Eaſt-ward, with th' Ancient Church, Adore let us;</l>
+                  <l>Though Schiſmaticks forbid, with <hi>Elxaeus.</hi>
+                  </l>
+               </lg>
+               <lg n="7">
+                  <head>VII.<note place="margin">Levit. 19.30. 1 Cor. 11.4, 7, 22. Exod. 20.24. &amp; 25.21, 22. &amp; 29.42, 43. Num. 6.22-27. &amp; 17.4. Hoſ. 12.4, 5, 6. Amos 4.12. 2 Chron. 7.15, 16. S. Matt. 18.20.</note>
+                  </head>
+                  <l>To reverence God's Sanctuary alway,</l>
+                  <l>All men keep off your Hats while there you ſtay.</l>
+                  <l>God's promiſe is to meet His people there,</l>
+                  <l>To bleſs thoſe that approve themſelves ſincere.</l>
+               </lg>
+               <lg n="8">
+                  <head>VIII.<note place="margin">S. Matth. 26.41. 1 Theſ. 5.6. Pſal. 119.113. Gen. 4.7. S. Matt. 25.21. Ecclus. 43.30. Iſai. 1.17. 1 Cor. 6.20. Pſal. 26.8.</note>
+                  </head>
+                  <l>Keep up your watch therefore, vain thoughts expell;</l>
+                  <l>Each pious duty ſtrive for to doe well.</l>
+                  <l>With Soul and Body ſee you Glorify,</l>
+                  <l>In His own Houſe, the Divine Majeſty.</l>
+               </lg>
+               <lg n="9">
+                  <head>IX.<note place="margin">Iſai. 49.22, 23. S. Matth. 28.19. Pſal. 51.5. Eph. 2.3. Titus 3.5. 1 Pet. 3.21. S. John 3.3, 5.</note>
+                  </head>
+                  <l>You Parents hither bring your Infants in,</l>
+                  <l>Which were conceiv'd, and alſo born in ſin,</l>
+                  <l>To th' Sacred Font, there to be born again</l>
+                  <l>Of Water, and the Spirit; <note n="a" place="margin">Eph. 5.26, 27.</note> and obtain</l>
+               </lg>
+               <lg n="10">
+                  <head>X.</head>
+                  <l>
+                     <note n="a" place="margin">Col. 2.12, 13. Act. 22.16. S. Mar. 10.13-16.</note>A waſhing from all ſin; and ſo become</l>
+                  <l>Church-members, meet ſubjects of God's Kingdome.</l>
+                  <l>
+                     <note n="b" place="margin">Prov. 22.6. Pſal. 34.11. Eccles. 12.1. Eph. 6.4. S. Matth. 19.13, 14, 15. Act. 8.14-17. &amp; 15.32, 41. Hebr. 6.2.</note>Children, <note n="c" place="margin">The Catechiſm of the Church of <hi>England.</hi>
+                     </note> The Catechiſm learn betime:</l>
+                  <l>To be Confirm'd be it your next deſign.</l>
+               </lg>
+               <lg n="11">
+                  <head>XI.<note place="margin">Gen. 3.16. Pſal. 116. Lev. 12.6, 7, 8. S. Luk. 2.22, 23, 24. Rom. 8.4 1 Cor. 11.5, 6, 10, 13. Pſ. 76.11. &amp; 121.1, 2, 3. 1 Tim. 2.9, 10. 1 Theſ. 5.18. Heb. 13.15. Phil. 4.8.</note>
+                  </head>
+                  <l>Through Child-birth's danger who delivered be,</l>
+                  <l>Unto your Pariſh-Church veiled come ye</l>
+                  <l>At th' uſual time, to Offer, Thank, Adore</l>
+                  <l>Almighty God, who did you ſafe reſtore.</l>
+               </lg>
+               <lg n="12">
+                  <head>XII.</head>
+                  <l>The ſolemn <note n="a" place="margin">Ezra 8.21, 22, 23. Iſai. 58.3-8. S. Mar. 2.20. S. Luk. 5.35. S. John 19.1, 38.</note> Faſts and <note n="b" place="margin">Exod. 13.3-10. &amp; 20.8-11. &amp; 34.21, 22. Deut. 5.12-15. Eſther 9.20-32. Nehem. 13.15-22. Pſal. 42.4.5. 1 Mac. 4.52 -59. S. Matth. 28. S. Mar. 16.9. &amp; v. 14, &amp;c. S. Luk. 1.29-39. &amp; 2.1-39. &amp; 24.1, &amp;c. S. John 10.22, 23. &amp; 20.1-19. Act. 1.2-14. &amp; 2.1, &amp;c. &amp; 20.16. 1 Cor. 16.8. &amp; 5.8. Rev. 1.10. Pſal. 150.1. Ecc1us. 44.1, 2, 7, 8.</note> Feſtivals in uſe</l>
+                  <l>In <hi>England</hi>'s Church, obſerve without abuſe.</l>
+                  <l>
+                     <note n="c" place="margin">Deut. 16.13, 14, 15. 2 Chron. 7.8, 9, 10. &amp; 30.22-27. Neh. 8.9-12.</note>Faſt not on Feaſts, nor <note n="d" place="margin">Iſai. 22.12, 13, 14. Dan. 10.2, 3. Jonah 3.5-10.</note> feaſt on Faſting-days.</l>
+                  <l>Fly <note n="*" place="margin">Levit. 3.</note> ſervile works, <note n="f" place="margin">Iſai. 58.3. &amp; 22.13.</note> vain ſports, <note n="g" place="margin">Jer. 36 6, 7. § Note that the Chriſti<g ref="char:EOLhyphen"/>an Church obſerves Her weekly Feſtivall not on the Seventh, but on the Firſt day of the week; and doth not call it the Sabbath, but Lord's day, and alſo Sunday. Nor doth She judge the works of the Temple or Church, of Piety, Charity, or Neceſſity, to be a profaning of that day, but a blameleſs obſerving of it. S. Matth. 12.1-13. S. Mar. 3.1-5. S. Luk. 13.11-17. S. John 7.22, 23. &amp; 9.13, 14, 16. Nor doth our Church pro<g ref="char:EOLhyphen"/>hibit the people from ſervile Work on the ordinary Faſting-daies, as all Fridaies, Evens of Holy-daies, Em<g ref="char:EOLhyphen"/>ber-daies, and 38 daies of Lent; (though She earneſtly deſires all Religious people, and ſo many as may be ſpared, to repair to their reſpective Churches at the hours of Prayer.) But on the extraordinary ſolemn daies of Faſting and Humiliation, as Aſh wedneſday, Good-Friday, the 30<hi rend="sup">th</hi>. day of <hi>January,</hi> and ſuch oc<g ref="char:EOLhyphen"/>caſional daies as ſhall be appointed by Supreme Authority to be kept, for removing of God's Judgments, &amp;c. on which daies She greatly deſires all Chriſtians of capacity to exerciſe themſelves in publick and private Hu<g ref="char:EOLhyphen"/>miliation, Devotion and Faſting, and to abſtain from ſervile Works.</note> all wicked ways.</l>
+               </lg>
+               <lg n="13">
+                  <head>XIII.</head>
+                  <l>
+                     <note n="a" place="margin">2 Sam. 1. &amp; 3.21-39. &amp; 4.4-12. 1 Sam. 24.4-7. &amp; 26.6-11. 1 Chron. 10.11, 12. Jer. 9.17, 18, 19. Joel 2.12. Amos 5.10, 17. Gen. 4.10, 11. 1 John 3.10. Num. 35.31, 32, 33. Pſ. 51.14. Prov. 1.10-16. &amp; 6.16-19. Iſai. 1.15. Jer. 26.14, 15. Joel 3.19. S. Matth. 21.38-41. Act. 22.20. Rom. 1.32.</note> With Faſting, Weeping, and with mournfull Cry,</l>
+                  <l>
+                     <hi>Lament</hi> That Scarlet Sin of double Dye,</l>
+                  <l>Of Murthering our <note n="a">
+                        <hi>K.</hi> CHARLES <hi>I.</hi> January <hi>30<hi rend="sup">th</hi>. 1648.</hi>
+                     </note> Late King. <note n="b">
+                        <hi>K.</hi> CHARLES <hi>II.</hi> May <hi>29<hi rend="sup">th</hi>. 1660.</hi>
+                     </note>
+                     <note n="b" place="margin">Jer. 27.6-11. Baruc. 1.11, 12. Iſai. 1.19, 20. 2 Sam. 19.30. Ezra 6.10. Prov. 24.21, 22. Eccles. 8.2-5. S. Matth. 23.21. S. Luk. 23.51. Rom. 13.1-7. 1 Tim. 2.1, 2, 3. Tit. 3. 1. 1 Pet. 2.13-17.</note> This King the more</l>
+                  <l>Serve, Honour, Pray for: Whom God did Reſtore.</l>
+               </lg>
+               <lg n="14">
+                  <head>XIV.</head>
+                  <l>
+                     <note n="a" place="margin">1 Tim. 3.1. &amp; 5.17. Tit. 1.4- 13. 1 Pet. 5.1-5. 1 King. 18.7, 8. 1 Cor. 9.7-14. 1 Theſ. 5.12, 13, 14. Act. 20.28. Heb. 13.7, 17,</note>Unto your Biſhops double Honour pay:</l>
+                  <l>
+                     <note n="b" place="margin">Eph. 6.18, 19, 20. Coloſ. 4.2, 3, 4. 2 Theſ. 3.1, 2. Heb. 13.18.</note>For them and for your Prieſts devoutly pray.</l>
+                  <l>
+                     <note n="c" place="margin">Jer. 23.25, 26, 31, 32. &amp; 27.9, 10, 14, 15. &amp; 28.15, 16. &amp; 29.8, 9, 27, 31, 32. Rom. 10.15. 2 Tim. 2.16, 17. Tit. 1.10, 11. &amp; 3.9, 10, 11. 2 Pet. 3.15-18. Act. 20.29, 30, 31, 1 John 2.18, 19. 3 John 9, 10, 11. Rom. 16.17, 18.</note>To any Preachers without lawful miſſion</l>
+                  <l>Do not commit your precious Souls Tuition.</l>
+               </lg>
+               <lg n="15">
+                  <head>XV.<note place="margin">Neh. 8.5. S. Luk. 12.47. Eccles. 5.1, 2. Pſ. 95.6. &amp; 132.7. Iſai. 45.23. Rom. 14.11. Dan. 6.10 S. Luk. 22.41. Act. 9.40. &amp; 20.36. &amp; 21.5. Eph. 3.14. Eccleſ. canon 18. Rubr.</note>
+                  </head>
+                  <l>When th' Miniſter opens the Book to reade,</l>
+                  <l>Stand up; prepare for Duties that ſucceed.</l>
+                  <l>At Prayers to God fall low upon your knee.</l>
+                  <l>God's Word and the Church Laws to this agree.</l>
+               </lg>
+               <lg n="16">
+                  <head>XVI.<note place="margin">Pſ. 51.3, 17. &amp; 119.176. Jer. 3.12, 13. 1 Pet. 2.25. 1 John 1.8, 9. S. Mar. 1.15. Act. 5.31. &amp; 16.31. &amp; 20.21. S. Joh. 20.23. S. Luk. 11.13. Heb. 4.14, 15, 16. S. Mat. 6.9-15.</note>
+                  </head>
+                  <l>Humbly Confeſs your ſins with due Contrition,</l>
+                  <l>Repent, Believe; and then obtain Remiſſion.</l>
+                  <l>Devoutly pray to God for Grace, that ſtill</l>
+                  <l>You may renounce all Sin, and doe His Will.</l>
+               </lg>
+               <lg n="17">
+                  <head>XVII.<note place="margin">Heb. 11.6. Jam. 1.5, 6, 7. Pſ. 28.2. Exod. 17.11. 1 King. 8.22. 2 Chr. 6.12, 13. Pſal. 63.5. &amp; 134.3. &amp; 113.4, 5. 1 Tim. 2.8. Pſal. 141.2. Jam. 1.17.</note>
+                  </head>
+                  <l>In humble Prayers, hoping to obtain,</l>
+                  <l>In hearty Lands, returning Thanks again,</l>
+                  <l>To God moſt High your Hands do you uplift;</l>
+                  <l>From whom comes every good and perfect gift.</l>
+               </lg>
+               <lg n="18">
+                  <head>XVIII.<note place="margin">Neh. 9.5. Pſal. 134.1, 2. &amp; 135.1, 2, 3. &amp; 45.11, 12. &amp; 72.11. &amp; 86.9. &amp; 99.2, 3, 5. 2 Chron. 20.9, 18. S. John. 5.22, 23. Phil. 2.9, 10, 11. Canon 18.</note>
+                  </head>
+                  <l>Stand up at Glory to the Father, Son,</l>
+                  <l>And Holy Ghoſt: Let this alſo be done</l>
+                  <l>At Hymns, Creeds, Goſpels. And likewiſe make you</l>
+                  <l>At the Name of JESUS a Reverend Bow.</l>
+               </lg>
+               <lg n="19">
+                  <head>XIX.<note place="margin">Neh. 8.6. 1 Chron. 29.20. 2 Chr. 7.3. Pſ. 106.46. Deut. 17.8-13. &amp; 28.45-48. Jer. 35. S. Matth. 18.17. 1 Theſ. 5.12, 13. Heb. 13.17. Pſ. 95.1, 2. &amp; 143.20. &amp; 148.11, 12, 13. &amp; 149.1. &amp; 150. Ecclus. 50.18. Col. 3.16. Pſ. 30.4. Iſ. 6.2, 3.</note>
+                  </head>
+                  <l>Each Reſpond make, to each Prayer <hi>Amen</hi> ſay.</l>
+                  <l>Lawfull Commands of Holy Church obey.</l>
+                  <l>With ſweet alternate voice in Pſalms and Hymns,</l>
+                  <l>Sound forth God's praiſe with Saints and Seraphims.</l>
+               </lg>
+               <lg n="20">
+                  <head>XX.<note place="margin">Iſai. 55.3. S. Luk. 8.15. Heb. 2.1. S Matth. 28.20. &amp; 26.26, 27, 28. S. Mar. 14.22, 23, 24. S. Luk. 22.19, 20. S. John 6.50-56. 1 Cor. 10.16. &amp; 11.17-34.</note>
+                  </head>
+                  <l>God's Holy Word reade, hear, and eke obey.</l>
+                  <l>The Holy Euchariſt without delay</l>
+                  <l>Preparedly Receive, when Invitation</l>
+                  <l>Is given unto you, for your own Salvation.</l>
+               </lg>
+               <lg n="21">
+                  <head>XXI.<note place="margin">1 Sam. 15.23. Prov. 17.11. Iſai. 30.8, 9, 10. &amp; 59.3-8. 2 Tim. 3.1-9, 13, 14. Ezr. 7.2, 5- 26. Iſ. 19.20. S. Matth. 5.19. Eph. 2.2. &amp; 4.8-15. Act. 20.28, 29, 30, 2 Cor. 11.13, 14, 15. 1 Joh. 2.26.</note>
+                  </head>
+                  <l>If any of <hi>the old Rebellious Rout,</hi>
+                  </l>
+                  <l>By ſubtle wiles, do ſeek, or go about</l>
+                  <l>You to perſwade our Laws to diſobey,</l>
+                  <l>Union to break, divide and go aſtray</l>
+               </lg>
+               <lg n="22">
+                  <head>XXII.<note place="margin">Hagg. 1.7-10. Rom. 16.17, 18. 2 Theſ. 3.6, 14. Pſ. 59.12. 1 Tim. 4.1, 2. 1 Cor. 1.11, 12, 13. Rom. 13.1-7. Prov. 1.8. &amp; 6.20. 1 Cor. 1.10. Heb. 13.17, 18. 1 Tim. 2.1-6. Pſal. 122.6-9. Jer. 29.7. Eph. 4.1-6. 1 Cor. 11.2, 34. &amp; 14.40. 2 Theſ. 2.15.</note>
+                  </head>
+                  <l>To any Conventicle; Mark, <note n="a" place="margin">
+                        <hi>i. e.</hi> Note</note> Obſerve</l>
+                  <l>Thoſe lying Hypocrites; but never ſwerve</l>
+                  <l>From your Dear Mother, <hi>England</hi>'s Church, but ſtill</l>
+                  <l>Pray for Her Peace, Love Her, Her Rites fulfill.</l>
+               </lg>
+               <lg n="23">
+                  <head>XXIII. <note place="margin">Iſai. 51.7. Jude v. 17, 18, 19. Baruc. 4.28. Phil. 1.27, 28. Tit 3.1. 1 Pet. 2.13-21. &amp; 5.5, 6. 1 Sam. 2.30. Pſal. 84.4. Prov. 8.32, 34. S. Matt. 5.9. Rom. 2.6.-11. Col. 1.21, 22, 23. Jam. 1.25. S. Joh. 5.28, 29. Mal. 3.16, 17, 18.</note>
+                  </head>
+                  <l>Let no Fanatick ſcoffs make you refuſe</l>
+                  <l>Theſe Chriſtian Duties conſtantly to uſe:</l>
+                  <l>Which if you do perform with due ſubjection,</l>
+                  <l>You ſhall be Bleſſed at the Reſurrection.</l>
+               </lg>
+            </lg>
+            <p>The Quotations of the Pſalms here are ſometimes according to thoſe in the Book of Common Prayer.</p>
+            <epigraph>
+               <q>Ye do erre, not knowing the Scriptures.</q>
+               <bibl>
+                  <hi>S. Matth. 22.29.</hi>
+               </bibl>
+               <q>Search the Scriptures.</q>
+               <bibl>
+                  <hi>S. John 5.39.</hi>
+               </bibl>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Rich. Royſton.</hi> 1676.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
